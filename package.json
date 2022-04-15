@@ -3,6 +3,6 @@
     "express": "^4.17.3",
     "gun": "^0.2020.1235",
     "http": "^0.0.1-security",
-    "zenbase": "^2.1.6"
+    "skynet-gundb-adapter": "https://github.com/SkynetLabs/gundb-adapter#refs/heads/skynet-nodejs"
   }
 }
